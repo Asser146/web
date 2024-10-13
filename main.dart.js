@@ -20288,7 +20288,7 @@ p=b[2]
 return A.b([o*m+l*k+j*n,o*r+l*q+j*s,o*p[0]+l*p[1]+j*p[2]],t.n)},
 MI(){var s=0,r=A.Q(t.H),q
 var $async$MI=A.R(function(a,b){if(a===1)return A.N(b,r)
-while(true)switch(s){case 0:q=A.fF("https://www.linkedin.com/in/assertamer14",0,null)
+while(true)switch(s){case 0:q=A.fF("https://mail.google.com/mail/?view=cm&fs=1&to=assertamer2002@gmail.com",0,null)
 s=5
 return A.S(A.Ms(q),$async$MI)
 case 5:s=b?2:4
@@ -20316,7 +20316,7 @@ case 3:return A.O(null,r)}})
 return A.P($async$MF,r)},
 ME(){var s=0,r=A.Q(t.H),q
 var $async$ME=A.R(function(a,b){if(a===1)return A.N(b,r)
-while(true)switch(s){case 0:q=A.fF("https://www.linkedin.com/in/assertamer14",0,null)
+while(true)switch(s){case 0:q=A.fF("https://github.com/Asser146",0,null)
 s=5
 return A.S(A.Ms(q),$async$ME)
 case 5:s=b?2:4
