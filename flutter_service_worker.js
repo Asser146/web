@@ -3,10 +3,9 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"assets/AssetManifest.bin": "e2ded8991a8e64ff55ed706557b26489",
-"assets/AssetManifest.bin.json": "c3f6418851b691c0fecdd17288a56ad7",
-"assets/AssetManifest.json": "11d6c27cd819be3c44cabd1465914b2c",
-"assets/assets/images/back1.png": "53f8133d68b7fcd5d523984377dc2dcb",
+const RESOURCES = {"assets/AssetManifest.bin": "0492b5108ec5a466c1b09635dd83f2ea",
+"assets/AssetManifest.bin.json": "49dc6c9e269a9d5b4d589c47e3a3dbb7",
+"assets/AssetManifest.json": "3c0b803be13476085e32132069396565",
 "assets/assets/images/github-mark-white.png": "1dee40f2668d5c719eafa2c89296f5e7",
 "assets/assets/images/gmail.png": "0feb7e26e8d45472e5d86c5a6d4f2922",
 "assets/assets/images/linkidIn.png": "1b18d461ce75c75fdb4d7b6ec08b3e65",
@@ -51,19 +50,23 @@ const RESOURCES = {"assets/AssetManifest.bin": "e2ded8991a8e64ff55ed706557b26489
 "canvaskit/skwasm.worker.js": "89990e8c92bcb123999aa81f7e203b1c",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "flutter.js": "f393d3c16b631f36852323de8e583132",
-"flutter_bootstrap.js": "cff068b88df8ab71541c365683cc1422",
+"flutter_bootstrap.js": "c9aaf345c8452a558320c05b4590e817",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
 "index.html": "e07af7619fb04f9c09bb98edb7ffd798",
 "/": "e07af7619fb04f9c09bb98edb7ffd798",
-"main.dart.js": "bc1e74046e6c659a53f452c83e8d83a2",
+"main.dart.js": "c9119ed7c62c9ba7325586f859515eaf",
+"main.dart.mjs": "ac4fd99ca4984e73f6fd2f5eb32ff906",
+"main.dart.wasm": "6a32dbbb433b25d4a118b4a9f5e31040",
 "manifest.json": "e74af8957b5899dc6da961caee768ec9",
 "version.json": "009c9e65172e010890f7f65fde438006"};
 // The application shell files that are downloaded before a service worker can
 // start.
 const CORE = ["main.dart.js",
+"main.dart.wasm",
+"main.dart.mjs",
 "index.html",
 "flutter_bootstrap.js",
 "assets/AssetManifest.bin.json",
